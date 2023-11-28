@@ -1,6 +1,6 @@
 # gisStudy
 
-1. 공간 빅 데이터<br> [링크[(https://youtu.be/di_4ffQwoAs?si=n13zpxvGxjaFxIbx)
+1. 공간 빅 데이터<br> [링크](https://youtu.be/di_4ffQwoAs?si=n13zpxvGxjaFxIbx)
    * 빅데이터: 디지털 환경에서 생성되는 데이터로 수치 데이터뿐 아니라 문자와 영상 데이터까지 포함하는 대규모 데이터<br>
    * 80% 이상이 위치와 공간 정보를 담은 빅데이터<br>
    ex1) 교통카드 정보 같은 민간 정보와 행정 정보를 융합하여 공간적으로 분석하여 대중교통 이용 패턴 분석 가능(현상 진단)<br>
