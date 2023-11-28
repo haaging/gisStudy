@@ -1,6 +1,6 @@
 # gisStudy
 
-###1. 공간 빅 데이터<br> [참고영상 링크](https://youtu.be/di_4ffQwoAs?si=n13zpxvGxjaFxIbx)
+### 1. 공간 빅 데이터<br> [참고영상 링크](https://youtu.be/di_4ffQwoAs?si=n13zpxvGxjaFxIbx)
    * 빅데이터: 디지털 환경에서 생성되는 데이터로 수치 데이터뿐 아니라 문자와 영상 데이터까지 포함하는 대규모 데이터<br>
    * 80% 이상이 위치와 공간 정보를 담은 빅데이터<br>
    ex1) 교통카드 정보 같은 민간 정보와 행정 정보를 융합하여 공간적으로 분석하여 대중교통 이용 패턴 분석 가능(현상 진단)<br>
@@ -11,17 +11,17 @@
    <br>
    * 드론으로 항공샷, gps차량으로 육지정보<br>
    <br>
-   #####브이월드
+   ##### 브이월드
    * 국토교통부에서 개발한 3D 통합 지도 서비스<br>
    * 다양한 행정 정보를 포함해 지적도, 건물 정보 등을 입체적으로 볼 수 있는 지도 서비스
 
 
-###2. [21세기 김정호, 미래 지도](https://www.youtube.com/watch?v=MNjJUv8Dwus)
-###3. [상권분석](	https://www.youtube.com/watch?v=GPb6XGBOQ9o)
+### 2. [21세기 김정호, 미래 지도](https://www.youtube.com/watch?v=MNjJUv8Dwus)
+### 3. [상권분석](	https://www.youtube.com/watch?v=GPb6XGBOQ9o)
 
-###4. 지리 정보 시스템
-####4.1 GIS 개요
-#####4.1.1 정의
+### 4. 지리 정보 시스템
+#### 4.1 GIS 개요
+##### 4.1.1 정의
 - 지리공간정보체계
 - GIS : Geographic Information System
 - GSIS : Geo-Spatial Information System
@@ -34,7 +34,7 @@
 - 필수요소 : 컴퓨터(하드웨어 및 소프트웨어), 자료, 인적자원
 
 <br>
-#####4.1.2 출현배경
+##### 4.1.2 출현배경
 - 산업화, 도시화에 따른 방대한 자료처리의 문제점 발생
   - 제도상의 문제
     - 부서간 업무연계 취약
