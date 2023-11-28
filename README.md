@@ -69,7 +69,9 @@
 > - 1959 : 토블러, GIS 소프트웨어 표준적인 요소들이 포함된 MIMO 모델 제시<br>
 > - 1963 : - 캐나다, CGIS(Canadian Geographic Information System) 개발<br>
 >          - 비슷한 시기에 미국 뉴욕주, 자원관리를 위해 LUNAR 개발<br>
->          - Fisher, 하바드 그래픽 연구소 설립, DIME 개발하여 위상관계 수용
+>          - Fisher, 하바드 그래픽 연구소 설립, DIME 개발하여 **위상관계** 수용
+> > 1970년대<br>
+> > - 컴퓨터의 본격적 등장
 
 
     
